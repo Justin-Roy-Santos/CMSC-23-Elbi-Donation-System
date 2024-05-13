@@ -34,3 +34,8 @@ insert short description here
 8) Resolve conflicts
 9) Once conflicts are resolved, push to repo
 10) You can now create a pull request
+
+## References:
+- CheckboxListTile - https://www.youtube.com/watch?v=RkSqPAn9szs
+- Date picker - https://www.youtube.com/watch?v=UrZL8-DrtHM
+- Time picker - https://www.youtube.com/watch?v=HlmX7QjU5mk
